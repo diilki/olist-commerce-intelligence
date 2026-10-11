@@ -62,6 +62,7 @@ The pipeline includes profiling, reconciliation, and Gold-layer validation activ
 
 ## Dataset
 The project uses the Brazilian E-Commerce Public Dataset by Olist, available on Kaggle. Refer to the original dataset page for source information and applicable terms.
+Data Set Link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Notes
 This repository documents the project implementation. Microsoft Fabric workspace resources and connected semantic models may require separate access and are not automatically published through GitHub.
