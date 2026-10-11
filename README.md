@@ -45,12 +45,11 @@ Payment value, transaction analysis, payment types, review scores, and customer 
 The pipeline includes profiling, reconciliation, and Gold-layer validation activities to help maintain reliable analytical data.
 
 ## Repository Structure
-- `docs/` — Architecture, data model, and pipeline documentation
-- `screenshots/` — Dashboard screenshots
-- `sql/` — SQL scripts for warehouse tables and validation
-- `dax/` — DAX measure documentation
-- `pipeline/` — Pipeline documentation
-- `data/` — Dataset notes and source information
+- `screenshots/` 
+- `sql/`
+- `dataset/`
+- `Power BI/`
+- `notebooks/`
 
 ## Key Learning Outcomes
 - Medallion architecture and data engineering
