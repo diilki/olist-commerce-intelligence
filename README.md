@@ -46,7 +46,7 @@ The pipeline includes profiling, reconciliation, and Gold-layer validation activ
 
 ## Repository Structure
 - `screenshots/` 
-- `sql/`
+- `Quries/`
 - `dataset/`
 - `Power BI/`
 - `notebooks/`
